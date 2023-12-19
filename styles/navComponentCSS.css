@@ -50,3 +50,12 @@ nav ul ul li a {
 .nav-border {
     border-bottom: 1px solid #333;
 }
+
+.nav-break li {
+    display: inline-block; /*Make list items inline */
+    margin-right: 10px; /* Adjust spacing between items */
+}
+
+.nav-break li:last-child {
+    margin-right: 0; /* Remove margin for the last item to avoid extra space */
+}
