@@ -13,9 +13,16 @@
     width: 90vw;
     margin: 10px;
 }
+@media screen and (min-width: 1000px) {
+    .txt-homepage {
+        width: 10px;
+        margin: 10px;
+    }
+}
 
 .map-homepage {
     width: 90vw;
     height: 200px;
     margin: 10px;
 }
+
