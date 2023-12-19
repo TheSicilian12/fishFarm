@@ -25,6 +25,11 @@ body, ul, p {
     justify-content: center;
 }
 
+.img-homepage {
+    width: 90vw;
+
+}
+
 .w-100 {
     width: 100vw;
 }
