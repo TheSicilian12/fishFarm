@@ -5,6 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/styles/site.css">
     <title>Remlinger Fish Farm</title>
+
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script>
+        $(function() {
+           $("#includeHtml").load("navComponent.html");
+        });
+     </script>
 </head>
 <body>
     <div class="center">
@@ -12,7 +19,8 @@
         <p>
      </div>
      <p class="center">For all your pond needs!</p>
-     <iframe src="navComponent.html" ></iframe>
+     <!-- <iframe src="navComponent.html" ></iframe> -->
+     <div id="includeHtml"></div>
 
      <!-- <img src="images/AirealPricture.jpg" /> -->
     <!-- <a href=fishpage.html>fish</a> -->

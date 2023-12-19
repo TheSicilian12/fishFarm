@@ -28,10 +28,20 @@ body, ul, p {
     width: 100vw;
 }
 
+.h-100p {
+    height: 100%;
+}
+
 nav ul {
     list-style: none;
 }
 
+div:first-of-type::after {
+    content: "";
+    display: block;
+    margin-top: 5px; /* Adjust the value as needed */
+}
+/*
 nav ul li {
     position: relative;
     float: left;
@@ -39,7 +49,7 @@ nav ul li {
 
 nav ul li a {
     display: block;
-    padding: 2px;
+    padding: 10px;
     text-decoration: none;
     color: #333;
 }
@@ -53,7 +63,6 @@ nav ul ul {
     position: absolute;
     top: 100%;
     left: 0;
-    background: #fff;
 }
 
 nav ul ul li {
@@ -63,4 +72,4 @@ nav ul ul li {
 
 nav ul ul li a {
     padding: 8px 10px;
-}
+} */
