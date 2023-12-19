@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-body, ul {
+body, ul, p {
     margin: 0;
     padding: 0;
 }
@@ -61,6 +61,6 @@ nav ul ul li {
     width: 100%;
 } */
 
-/* nav ul ul li a {
+nav ul ul li a {
     padding: 8px 10px;
 } */
