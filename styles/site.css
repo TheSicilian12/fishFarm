@@ -49,11 +49,15 @@ body, ul, p {
     height: 100%;
 }
 
-.m-r-10{
-    margin-right: 10px;
+.m-r-20 {
+    margin-right: 20px;
 }
-.m-l-10{
-    margin-left: 10px;
+.m-l-20 {
+    margin-left: 20px;
+}
+
+.m-t-10 {
+    margin-top: 10px;
 }
 
 .m-10 {
@@ -64,6 +68,7 @@ body, ul, p {
     margin: 5px;
 }
 
+
 .border-b-white {
     padding-right: 10px;
     padding-left: 10px;
@@ -73,6 +78,7 @@ body, ul, p {
 .footer {
    display: flex;
    flex-direction: column;
+   /* justify-content: center; */
    background: #333;
    color: white;
 }
