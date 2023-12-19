@@ -2,7 +2,7 @@
     width: 80vw;
     margin: 10px;
 }
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 900px) {
     .img-homepage {
         width: 35vw;
         margin: 10px;
@@ -13,7 +13,7 @@
     width: 80vw;
     margin: 10px;
 }
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 900px) {
     .txt-homepage {
         width: 35vw;
         margin: 10px;
