@@ -30,9 +30,11 @@ nav ul ul {
     top: 100%;
     left: 0;
     background: rgb(123, 123, 194);
+    z-index: 1000; /* Set a higher z-index value */
 }
 nav ul ul.show {
     display: block;
+    z-index: 1000; /* Set a higher z-index value */
 }
 
 nav ul ul li {
