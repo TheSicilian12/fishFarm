@@ -2,12 +2,12 @@
     margin: 0;
     padding: 0;
     border: 0;
+    box-sizing: border-box;
 }
 
-body {
+body, ul {
     margin: 0;
     padding: 0;
-    /* width: 100vw; */
 }
 
 .border {
@@ -27,3 +27,40 @@ body {
 .w-100 {
     width: 100vw;
 }
+
+/* nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    position: relative;
+    float: left;
+}
+
+nav ul li a {
+    display: block;
+    padding: 2px;
+    text-decoration: none;
+    color: #333;
+}
+
+nav ul li:hover > ul {
+    display: block;
+}
+
+nav ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #fff;
+}
+
+nav ul ul li {
+    float: none;
+    width: 100%;
+} */
+
+/* nav ul ul li a {
+    padding: 8px 10px;
+} */
