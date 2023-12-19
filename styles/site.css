@@ -28,7 +28,7 @@ body, ul, p {
     width: 100vw;
 }
 
-/* nav ul {
+nav ul {
     list-style: none;
 }
 
@@ -59,8 +59,8 @@ nav ul ul {
 nav ul ul li {
     float: none;
     width: 100%;
-} */
+}
 
 nav ul ul li a {
     padding: 8px 10px;
-} */
+}
