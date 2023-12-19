@@ -4,7 +4,7 @@
 }
 @media screen and (min-width: 900px) {
     .img-homepage {
-        width: 35vw;
+        width: 50vw;
         margin: 10px;
     }
 }
@@ -15,7 +15,7 @@
 }
 @media screen and (min-width: 900px) {
     .txt-homepage {
-        width: 35vw;
+        width: 50vw;
         margin: 10px;
     }
 }
@@ -24,4 +24,10 @@
     width: 80vw;
     height: 200px;
     margin: 10px;
+}
+@media screen and (min-width: 900px) {
+    .map-homepage {
+        width: 50vw;
+        margin: 10px;
+    }
 }
