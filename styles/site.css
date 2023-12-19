@@ -36,6 +36,10 @@ body, ul, p {
     margin-bottom: 50px;
 }
 
+
+
+
+
 nav ul {
     list-style: none;
 }
@@ -67,7 +71,7 @@ nav ul ul {
     position: absolute;
     top: 100%;
     left: 0;
-    background: blue;
+    background: rgb(123, 123, 194);
 }
 
 nav ul ul li {
