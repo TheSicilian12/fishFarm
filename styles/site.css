@@ -41,7 +41,7 @@ div:first-of-type::after {
     display: block;
     margin-top: 5px; /* Adjust the value as needed */
 }
-/*
+
 nav ul li {
     position: relative;
     float: left;
@@ -63,6 +63,7 @@ nav ul ul {
     position: absolute;
     top: 100%;
     left: 0;
+    background: blue;
 }
 
 nav ul ul li {
@@ -72,4 +73,4 @@ nav ul ul li {
 
 nav ul ul li a {
     padding: 8px 10px;
-} */
+}
