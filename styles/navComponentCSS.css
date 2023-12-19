@@ -31,6 +31,9 @@ nav ul ul {
     left: 0;
     background: rgb(123, 123, 194);
 }
+nav ul ul.show {
+    display: block;
+}
 
 nav ul ul li {
     float: none;
@@ -40,4 +43,3 @@ nav ul ul li {
 nav ul ul li a {
     padding: 8px 10px;
 }
-
