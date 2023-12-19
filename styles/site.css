@@ -25,6 +25,11 @@ body, ul, p {
     justify-content: center;
 }
 
+.center-self {
+    display: flex;
+    align-self: center;
+}
+
 .img-homepage {
     width: 90vw;
     margin: 10px;
@@ -36,8 +41,4 @@ body, ul, p {
 
 .h-100p {
     height: 100%;
-}
-
-.h-10pi {
-    margin-bottom: 50px;
 }
