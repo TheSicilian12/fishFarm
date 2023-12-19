@@ -1,28 +1,27 @@
 .img-homepage {
-    width: 90vw;
+    width: 80vw;
     margin: 10px;
 }
 @media screen and (min-width: 1000px) {
     .img-homepage {
-        width: 10px;
+        width: 35vw;
         margin: 10px;
     }
 }
 
 .txt-homepage {
-    width: 90vw;
+    width: 80vw;
     margin: 10px;
 }
 @media screen and (min-width: 1000px) {
     .txt-homepage {
-        width: 10px;
+        width: 35vw;
         margin: 10px;
     }
 }
 
 .map-homepage {
-    width: 90vw;
+    width: 80vw;
     height: 200px;
     margin: 10px;
 }
-
