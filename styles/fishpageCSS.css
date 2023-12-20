@@ -16,3 +16,7 @@
     word-wrap: break-word;
     text-align: center; /* Center text within the container */
 }
+
+.txt-fish {
+    margin: 10px;
+}
