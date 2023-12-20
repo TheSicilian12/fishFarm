@@ -15,6 +15,7 @@
     align-items: center;
     word-wrap: break-word;
     text-align: center; /* Center text within the container */
+    margin: 10px;
 }
 
 .txt-fish {
