@@ -7,6 +7,11 @@
     padding: 8px; /* Adjust as needed */
   }
 
-  .center-table {
+  .center-table-txt {
    text-align: center;
+  }
+
+  .table-box {
+    padding: 10px;
+    border: 1px solid black;
   }
