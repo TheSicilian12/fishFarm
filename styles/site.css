@@ -16,11 +16,6 @@ body, ul, p {
     border: 1px solid black;
 }
 
-.blue {
-    background: blue;
-    color: white;
-}
-
 .center {
     display: flex;
     justify-content: center;
