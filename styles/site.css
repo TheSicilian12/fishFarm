@@ -63,6 +63,9 @@ body, ul, p {
     margin: 5px;
 }
 
+.border-b-black {
+    border-bottom: 1px solid black;
+}
 
 .border-b-white {
     padding-right: 10px;
