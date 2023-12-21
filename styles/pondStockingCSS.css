@@ -24,3 +24,7 @@
     text-align: center; /* Center text within the container */
     margin: 10px;
   }
+
+  .row-dark {
+    background: #c5c5c5
+}
