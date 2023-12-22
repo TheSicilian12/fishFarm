@@ -2,6 +2,7 @@
     width: 80vw;
     margin: 10px;
 }
+
 @media screen and (min-width: 900px) {
     .img-homepage {
         width: 50vw;
@@ -9,10 +10,12 @@
     }
 }
 
+
 .txt-homepage {
     width: 80vw;
     margin: 10px;
 }
+
 @media screen and (min-width: 900px) {
     .txt-homepage {
         width: 50vw;
@@ -25,6 +28,7 @@
     height: 200px;
     margin: 10px;
 }
+
 @media screen and (min-width: 900px) {
     .map-homepage {
         width: 50vw;
